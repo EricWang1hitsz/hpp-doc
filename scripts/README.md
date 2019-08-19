@@ -19,8 +19,8 @@ auto-install-hpp.sh --mktar -v
 ```
 Eric_Wang@Hitsz:
 ``bash auto-install-hpp.sh --branch devel --mktar -v``
-Mathie-Geisert: https://github.com/Mathieu-Geisert/hpp-rbprm
-says using devel branch for the software to work correctly.
+
+Mathie-Geisert: https://github.com/Mathieu-Geisert/hpp-rbprm says using devel branch for the software to work correctly.
 
 You will find three files in the directory `${DEVEL_HPP_DIR}/tarball/`:
 * a bash script called `check.***.sh` that should be used in order to resolve the dependencies on a new computer,
