@@ -30,12 +30,17 @@ You will find three files in the directory `${DEVEL_HPP_DIR}/tarball/`:
 
 Follow the auto-install-hpp.sh, but you may meet some problems, lacking the dependency.
 ````
-packages in Humanoid-path-planner repository:
+*packages in Humanoid-path-planner repository:
 
 qpOASES
 
 romeo  
 
+*packages in roboptim repository:
+
+rovoptiim-core
+
+roboptiim-trajectory
 ````
 
 
