@@ -26,6 +26,18 @@ You will find three files in the directory `${DEVEL_HPP_DIR}/tarball/`:
 * a bash script called `check.***.sh` that should be used in order to resolve the dependencies on a new computer,
 * a tarball called `hpp.***.tar.gz` containing only the binaries,
 * a tarball called `hpp.src.***.tar.gz` containing the binaries and the source files.
+## Dependency Install
+
+Follow the auto-install-hpp.sh, but you may meet some problems, lacking the dependency.
+````
+packages in Humanoid-path-planner repository:
+
+qpOASES
+
+romeo  
+
+````
+
 
 ## Build docker images for CI
 
